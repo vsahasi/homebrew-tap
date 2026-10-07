@@ -1,6 +1,6 @@
 cask "train-of-thought" do
   version "0.1.0"
-  sha256 "2a2d8baa6c0b6919b5e3c1f0aaea80e9d4ae723150d18d75fd4d803d5486c05d"
+  sha256 "b4543de8bbb3fdf5d2514379f12e9fbc27be5183b849398a4b276dbe0e6d365d"
 
   url "https://github.com/vsahasi/train-of-thought/releases/download/v#{version}/Train-of-Thought-#{version}.zip"
   name "Train of Thought"
